@@ -1,4 +1,13 @@
 
+// -- link de diagrama 
+// -- https://dbdiagram.io/d/Base-de-datos-blog_db-662b26f403593b6b61033e32
+// este comentario es para tener informado que fue creada la bd con ese comando
+// select database blog_db;
+
+
+
+
+
 create table users 
 ( id serial primary key,
  first_name varchar(50),
