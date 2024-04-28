@@ -4,10 +4,6 @@
 // este comentario es para tener informado que fue creada la bd con ese comando
 // create database blog_db;
 
-
-
-
-
 create table users 
 ( id serial primary key,
  first_name varchar(50),
